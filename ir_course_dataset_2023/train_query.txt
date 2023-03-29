@@ -1,0 +1,241 @@
+qid	query
+287	what factors should be considered when deciding whether to reopen schools during the pandemic
+13	how does coronavirus spread
+155	how has coronavirus mortality changed over time
+273	what resources are available for those struggling with pandemic related mental health issues
+117	how do coronavirus super spreaders contribute to the spread of the disease
+23	coronavirus hypertension
+97	what is the impact of social distancing on the economy
+278	how does dexamethasone compare to other treatments for covid
+261	how has the pandemic impacted rates of domestic violence
+158	how does coronavirus impact individuals with pre existing heart conditions
+297	what are the differences between mrna vaccines and traditional vaccines
+163	can hypertension medications increase or decrease the risk of coronavirus complications
+110	what are some alternatives to coronavirus quarantine
+16	how long does coronavirus survive on surfaces
+86	what is the extent of under reporting of coronavirus cases
+66	what are the common causes of death in people with coronavirus
+180	what measures can be taken to manage coronavirus symptoms in the early stages
+193	what studies have been conducted on the effectiveness of repurposed drugs for coronavirus treatment
+218	what are some common strategies for managing symptoms during the recovery process
+138	how do masks prevent coronavirus transmission
+75	what are the limitations of using animal models to study the coronavirus
+153	what factors contribute to coronavirus mortality
+292	what are the factors that impact post infection immunity to covid
+44	impact of masks on coronavirus transmission
+178	can coronavirus symptoms vary between individuals
+165	are there any specific guidelines for managing hypertension in individuals with coronavirus
+69	can the coronavirus cause other organ failures
+36	sars cov 2 spike structure
+154	can coronavirus mortality be reduced through early detection and treatment
+234	what are some of the challenges associated with conducting phylogenetic analyses of sars cov and how are researchers addressing these issues
+260	what other vitamins and supplements may be helpful in preventing or treating covid
+124	what are the risks of touching surfaces contaminated with coronavirus
+57	what impact does weather have on the transmission of the coronavirus
+185	how does the management of asymptomatic coronavirus differ from symptomatic cases
+191	what is drug repurposing and how is it being used to treat coronavirus
+239	what treatments are being explored for targeting the inflammatory response to covid and how effective have they been so far
+204	how does the transmission of covid compare to that of the flu
+146	what is the relationship between coronavirus and ace inhibitors
+245	what is the current state of research on the cytokine storm associated with covid and what new insights have been gained in recent studies
+209	how do scientists classify different types of coronavirus and what factors do they consider
+269	what is the impact of inconsistent mask usage on covid transmission
+109	what are the consequences of breaking coronavirus quarantine
+270	how do masks impact the spread of other respiratory illnesses
+283	what is the mortality rate of covid in children
+242	what are some of the key cytokines involved in the cytokine storm associated with covid and how do they contribute to disease severity
+4	how do people die from the coronavirus
+34	coronavirus recovery
+221	what publicly available datasets are there for covid and what kind of information do they contain
+275	what is the impact of social isolation on mental health during the pandemic
+142	how does alcohol sanitizer kill coronavirus
+202	how does covid differ from the seasonal flu
+176	what are the early symptoms of coronavirus
+84	how reliable are serological tests for the coronavirus
+132	how are clinical trials conducted for coronavirus treatments
+8	coronavirus under reporting
+181	what percentage of individuals with coronavirus are asymptomatic
+119	how do scientists identify coronavirus super spreader events
+21	coronavirus mortality
+299	how effective are mrna covid vaccines in preventing infection and transmission
+143	what is the recommended alcohol content for sanitizer to be effective against coronavirus
+1	coronavirus origin
+93	what measures have been taken to control the spread of the coronavirus in canada
+5	animal models of covid 19
+113	how easily does coronavirus spread from person to person
+11	coronavirus hospital rationing
+187	what are the potential benefits and risks of using hydroxychloroquine to treat coronavirus
+291	how long does immunity to covid last after infection
+82	how do serological tests differ from diagnostic tests for the coronavirus
+159	what is the relationship between coronavirus and heart attacks
+225	how can members of the public access and use covid datasets for their own purposes
+67	how does the coronavirus lead to respiratory failure
+114	what are some preventative measures to stop the spread of coronavirus
+174	can biomarkers be used to predict coronavirus outcomes
+263	what resources are available for victims of pandemic related violence
+141	what type of alcohol sanitizer is effective against coronavirus
+27	coronavirus asymptomatic
+56	how does the coronavirus respond to changes in weather conditions
+40	coronavirus mutations
+183	can asymptomatic individuals with coronavirus still spread the disease
+160	how can coronavirus related heart impacts be prevented or treated
+272	what groups are most vulnerable to mental health issues during the pandemic
+100	what are the long term effects of social distancing on society
+266	how effective are masks in preventing the spread of covid
+188	what studies have been conducted on the effectiveness of hydroxychloroquine for coronavirus treatment
+35	coronavirus public datasets
+267	what are the different types of masks and their effectiveness against covid
+265	what is the psychological impact of pandemic related violence on victims and perpetrators
+24	coronavirus diabetes
+190	how does hydroxychloroquine compare to other treatments for coronavirus
+99	what are the challenges of implementing social distancing measures
+90	what impact does under reporting have on coronavirus research and policy
+79	how accurate are rapid tests for the coronavirus
+49	post infection covid 19 immunity
+171	what are the biomarkers associated with coronavirus
+72	how do animals respond to the coronavirus infection
+30	coronavirus remdesivir
+199	what are the guidelines for using remdesivir to treat coronavirus
+127	how long can coronavirus remain infectious on surfaces
+26	coronavirus early symptoms
+134	what are some challenges associated with coronavirus clinical trials
+43	violence during pandemic
+74	how are animal studies used to test coronavirus treatments and vaccines
+194	what are the potential benefits and risks of using repurposed drugs for coronavirus treatment
+148	what are the current guidelines regarding ace inhibitors and coronavirus
+152	how does coronavirus mortality compare to other diseases
+296	what is an mrna vaccine and how does it work against covid
+280	what is the mechanism of action of dexamethasone in treating covid
+220	what resources are available to support individuals in their recovery from covid
+6	coronavirus test rapid testing
+137	what type of masks are most effective in preventing coronavirus
+282	what are the common symptoms of covid in children
+229	what strategies are being explored for targeting the sars cov spike protein in the development of treatments or vaccines
+167	how does coronavirus impact individuals with pre existing diabetes
+230	are there any notable differences in the structure of the sars cov spike protein across different variants of the virus
+59	does the virus survive better in certain weather conditions
+216	what is the typical recovery time for covid and what factors can affect it
+289	what are the potential consequences of prolonged school closures during the pandemic
+211	what are the leading vaccine candidates for covid and how do they differ
+38	covid inflammatory response
+41	covid 19 in african americans
+286	what are the guidelines for safely reopening schools during the covid pandemic
+236	what is the inflammatory response to covid and how does it contribute to disease severity
+123	what surfaces are more likely to harbor coronavirus
+107	how does coronavirus quarantine work
+232	what insights have been gained from phylogenetic analyses of sars cov and how have these findings been applied in public health efforts
+222	how are public datasets on coronavirus being used by researchers and policymakers
+54	what caused the outbreak of the coronavirus
+68	what is the impact of the coronavirus on the cardiovascular system
+228	how does the structure of the sars cov spike protein compare to that of other coronaviruses
+207	what are the different subcategories of covid and how do they differ
+214	how effective are the various vaccine candidates against different strains of coronavirus
+83	what is the role of serological tests in tracking the spread of the coronavirus
+186	what is hydroxychloroquine and how is it used to treat coronavirus
+121	how long does coronavirus survive outside the body
+131	what are the latest developments in coronavirus clinical trials
+50	mrna vaccine coronavirus
+184	how can asymptomatic individuals be identified and isolated to prevent transmission
+15	coronavirus outside body
+118	what are the characteristics of coronavirus super spreaders
+195	how does drug repurposing compare to the development of new treatments for coronavirus
+203	in what ways are the symptoms of coronavirus distinct from those of the flu
+116	what is a coronavirus super spreader
+88	what are the consequences of under reporting coronavirus cases
+295	what are the implications of post infection immunity on covid vaccine development
+262	what are the underlying factors contributing to increased violence during the pandemic
+231	what is phylogenetic analysis and how is it being used to study the evolution of sars cov
+210	is there any evidence to suggest that different coronavirus subtypes are more or less severe than others
+175	what biomarkers are being researched as potential targets for coronavirus treatments
+55	when and how was the coronavirus first identified
+215	are there any notable differences between the vaccine candidates in terms of safety or side effects
+60	is there a relationship between weather and the severity of coronavirus cases
+22	coronavirus heart impacts
+227	what are some of the different regions of the sars cov spike protein and how do they interact with the human immune system
+147	are people taking ace inhibitors at higher risk of coronavirus
+91	what is the current status of the coronavirus outbreak in canada
+144	how should alcohol sanitizer be used to prevent coronavirus transmission
+80	what are the limitations of using rapid testing for the coronavirus
+129	how can we protect ourselves from coronavirus on surfaces
+284	what are the long term health implications of covid in children
+94	what are the challenges of managing the coronavirus in canada
+64	can immunity to the coronavirus be acquired naturally or through vaccination
+235	are there any notable differences in the phylogenetic structure of sars cov across different regions or populations
+126	what is the lifespan of coronavirus on surfaces
+258	how does vitamin d deficiency impact the immune system s response to covid
+206	how many different types of coronavirus are there and what distinguishes them
+81	what are serological tests for the coronavirus
+192	what drugs are being repurposed for coronavirus treatment and how do they work
+259	what is the recommended daily intake of vitamin d for covid prevention
+125	what measures can be taken to disinfect surfaces and prevent the spread of coronavirus
+3	coronavirus immunity
+135	how are clinical trials for coronavirus vaccines progressing
+268	what are the guidelines for proper mask usage to prevent covid transmission
+12	coronavirus quarantine
+115	what is the role of asymptomatic carriers in coronavirus transmission
+172	how can biomarkers be used to diagnose coronavirus
+277	what are the potential side effects of dexamethasone when used to treat covid
+104	what factors are considered when deciding which patients receive treatment during the coronavirus pandemic
+290	what are the experiences of schools that have reopened during the pandemic
+200	how does remdesivir compare to other
+17	coronavirus clinical trials
+85	what are the limitations of using serological tests for the coronavirus
+251	how has covid disproportionately affected minority communities
+98	how has social distancing affected mental health
+102	what measures are hospitals taking to allocate resources during the coronavirus outbreak
+150	what research has been done on the relationship between ace inhibitors and coronavirus
+10	coronavirus social distancing impact
+169	how does diabetes affect coronavirus mortality
+173	what is the relationship between biomarkers and coronavirus severity
+52	where did the coronavirus come from
+276	what is dexamethasone and how is it used to treat covid
+281	how does covid impact children compared to adults
+33	coronavirus vaccine candidates
+205	can the flu vaccine protect against coronavirus or are the viruses too different
+298	what are the potential side effects of mrna covid vaccines
+95	what is the outlook for the future of the coronavirus in canada
+28	coronavirus hydroxychloroquine
+111	what are the modes of transmission for coronavirus
+108	how long is coronavirus quarantine
+157	can coronavirus cause long term heart damage
+77	how does rapid testing differ from standard testing for the coronavirus
+223	what are some of the challenges associated with collecting and analyzing covid data
+198	what studies have been conducted on the effectiveness of remdesivir for coronavirus treatment
+166	what is the relationship between coronavirus and diabetes
+87	why is the coronavirus under reported in certain regions
+42	vitamin d and covid 19
+58	can climate change affect the spread of the coronavirus
+31	difference between coronavirus and flu
+76	what is rapid testing for the coronavirus
+112	what are the primary ways coronavirus is transmitted
+63	what are the different types of immunity to the coronavirus
+139	are masks mandatory to prevent the spread of coronavirus
+62	how does the immune system respond to the coronavirus
+164	how can individuals with hypertension reduce their risk of contracting coronavirus
+162	what is the relationship between hypertension and coronavirus mortality
+241	what is a cytokine storm and how does it relate to covid
+14	coronavirus super spreaders
+238	what are some of the potential mechanisms underlying the inflammatory response to covid
+71	what animal models are used to study the coronavirus
+25	coronavirus biomarkers
+29	coronavirus drug repurposing
+7	serological tests for coronavirus
+105	in what ways are hospitals preparing for potential resource shortages due to the coronavirus pandemic
+300	what is the recommended dosage and schedule for mrna covid vaccines
+19	what alcohol sanitizer kills coronavirus
+170	what measures can be taken to reduce the risk of coronavirus complications in individuals with diabetes
+92	how has canada responded to the coronavirus pandemic
+264	what steps are being taken to address pandemic related violence
+53	how did the coronavirus emerge
+217	how does recovery from coronavirus differ from recovery from other respiratory illnesses
+20	coronavirus and ace inhibitors
+249	how are scientists tracking coronavirus mutations
+179	how can early detection of coronavirus improve outcomes
+140	what are the risks of not wearing masks during the coronavirus pandemic
+250	what are the symptoms associated with different coronavirus mutations
+101	how are hospitals dealing with a shortage of resources during the coronavirus pandemic
+161	how does coronavirus affect individuals with hypertension
+73	what insights have animal studies provided about the coronavirus
+78	what are the benefits of rapid testing for the coronavirus
+51	what is the origin of the coronavirus
+246	what are the different variants of the coronavirus
